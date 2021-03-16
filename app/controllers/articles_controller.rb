@@ -9,7 +9,7 @@ class ArticlesController < ApplicationController
 	end
 
 	def about
-		
+		#shubham alnjewar
 	end
 
 
